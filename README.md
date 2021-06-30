@@ -1,5 +1,5 @@
 # MyCodeAcademia
-a python repository for study
+um repositório de python para estudos :)
 
 1º Criar um arquivo Json com uma estrutura de {CHAVE: "VALOR"} que contenha 10 objetos  
   R(1º) - Aproveitei um aprendizado de JSON que estou tendo programando um Bot em JS para Discord e aí, foi normal para organizar a estrutura do JSON.
