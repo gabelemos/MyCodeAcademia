@@ -1,0 +1,55 @@
+[{
+    "tipo": "carros",
+    "id": 1,
+    "objeto": true,
+    "modelos": [{
+        "nome": "FORD MUSTANG GT",
+        "ano": 1967,
+        "em_fabricacao": false
+    },
+    
+    {
+        "nome": "NISSAN SKYLINE GTR R34",
+        "ano": 1999,
+        "em_fabricacao": false
+    },
+    {
+        "nome": "FIAT TORO",
+        "ano": 2016,
+        "em_fabricacao": true
+    },
+    {
+        "nome": "VOLKSWAGEN FUSCA/BEETLE",
+        "ano": 1938,
+        "em_fabricacao": false
+    }] 
+},
+{
+    "tipo": "personagens",
+    "id": 0,
+    "objeto": false,
+    "modelos": [{
+        "nome": "Uraraka Ochako",
+        "ano": 2006,
+        "sexo": "feminino",
+        "estudando": true 
+    },
+    {
+        "nome": "Futaba Rio",
+        "ano": 2003,
+        "sexo": "feminino",
+        "estudando": true
+    },
+    {
+        "nome": "Batman",
+        "ano": 1939,
+        "sexo": "masculino",
+        "estudando": false
+    },
+    {
+        "nome": "Izuku Midoriya",
+        "ano": 2006,
+        "sexo": "masculino",
+        "estudando": true
+    }]
+}]
